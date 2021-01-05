@@ -40,7 +40,7 @@
 		<!-- http://mvnrepository.com/artifact/redis.clients/jedis -->
 		<version.jedis>2.9.0</version.jedis>
 		<!-- http://mvnrepository.com/artifact/org.quartz-scheduler/quartz -->
-		<version.quartz>2.3.0</version.quartz>
+		<version.quartz>2.3.2</version.quartz>
 		<!-- http://mvnrepository.com/artifact/com.mchange/c3p0 -->
 		<version.c3p0>0.9.5.2</version.c3p0>
 	</properties>
